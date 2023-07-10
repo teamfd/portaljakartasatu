@@ -1,0 +1,12 @@
+.inputRounded .MuiOutlinedInput-root {
+    border-radius: 20px;
+    width: 550px;
+    background : white;
+    box-shadow: 0 1px 5px rgb(0 0 0 / 0.2);
+    font-size: small;
+    padding-left: 2%;
+}
+
+.pagination .MuiPaginationItem-root {
+    margin-bottom: 80px;
+}
