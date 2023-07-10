@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portaljakartasatu/static/css/main.2b4f8569.css",
+    "main.js": "/portaljakartasatu/static/js/main.8d66ce3b.js",
+    "static/js/787.c0731d43.chunk.js": "/portaljakartasatu/static/js/787.c0731d43.chunk.js",
+    "static/media/19_2022_SK_Kadis_Petunjukan_Pelaksanaan_Integrasi.pdf": "/portaljakartasatu/static/media/19_2022_SK_Kadis_Petunjukan_Pelaksanaan_Integrasi.63e0e09cd7a1b687f0f5.pdf",
+    "static/media/2021_PERKADIS_2_TAHUN_Tentang_Pedoman_Pengukuran_dan_Pemetaan_di_DKI_Jakarta.pdf": "/portaljakartasatu/static/media/2021_PERKADIS_2_TAHUN_Tentang_Pedoman_Pengukuran_dan_Pemetaan_di_DKI_Jakarta.591f5d32a9d54a0b16d4.pdf",
+    "index.html": "/portaljakartasatu/index.html",
+    "static/media/getFetch.cjs": "/portaljakartasatu/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.2b4f8569.css.map": "/portaljakartasatu/static/css/main.2b4f8569.css.map",
+    "main.8d66ce3b.js.map": "/portaljakartasatu/static/js/main.8d66ce3b.js.map",
+    "787.c0731d43.chunk.js.map": "/portaljakartasatu/static/js/787.c0731d43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b4f8569.css",
+    "static/js/main.8d66ce3b.js"
+  ]
+}
